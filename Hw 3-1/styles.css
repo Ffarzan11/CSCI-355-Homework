@@ -23,3 +23,10 @@ footer {
     color: white;
     background-color: hsl(30, 85%, 45%);
 }
+
+.name {
+    background-color: transparent;
+    color: black;
+    font-size: medium;
+    text-align: left;
+}
